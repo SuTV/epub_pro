@@ -1,4 +1,5 @@
 export 'src/utils/enum_from_string.dart';
+export 'src/utils/chapter_splitter.dart';
 
 export 'src/epub_reader.dart';
 export 'src/epub_writer.dart';
