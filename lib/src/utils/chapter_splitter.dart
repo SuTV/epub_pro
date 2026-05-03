@@ -58,7 +58,7 @@ class _HtmlStructure {
 /// ```
 class ChapterSplitter {
   /// Maximum number of words allowed per chapter part.
-  static const int maxWordsPerChapter = 3000;
+  static int maxWordsPerChapter = 3000;
 
   /// Counts the number of words in HTML content.
   ///
